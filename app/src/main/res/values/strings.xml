@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiPartDemo</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="pick_image">Pick Image</string>
+</resources>
